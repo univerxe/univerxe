@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cssthauni" target="blank"><img src="https://img.shields.io/twitter/follow/cssthauni?logo=twitter&style=for-the-badge" alt="cssthauni" /></a> </p>
 
-- 🔭 I’m currently working on **open source software development**
+- 🔭 I’m currently working on **Open-source software development**
 
 - 🌱 I’m currently learning **C/C++/Python/Git**
 
