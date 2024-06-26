@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Universe Shrestha. </h1>
+<h1 align="center">Hello🧑‍💻, I'm Universe Shrestha. </h1>
 <h3 align="center"> Human Learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=univerxe&label=Profile%20views&color=0e75b6&style=flat" alt="univerxe" /> </p>
