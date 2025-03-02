@@ -1,3 +1,4 @@
+![Banner](https://github.com/univerxe/univerxe/blob/main/banner3.png)
 # 👨‍💻 **Hi, I'm Universe :)**
 ### Full-Stack Developer 🚀 | Creating Scalable SaaS Apps People Love 🌐
 
@@ -5,7 +6,7 @@ I build impactful web apps that solve real problems. Constantly exploring new te
 
 Check out my projects below and feel free to connect!
 
-![Banner](https://github.com/univerxe/univerxe/blob/main/banner3.png)
+
 
 ## 💻 Skills
 ### Frontend Development
