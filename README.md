@@ -5,8 +5,6 @@ I build impactful web apps that solve real problems. Constantly exploring new te
 
 Check out my projects below and feel free to connect!
 
-
-
 ## 💻 Skills
 ### Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=js,react,ts,tailwind,vite,nextjs&theme=light)](https://skillicons.dev)
@@ -23,5 +21,5 @@ Check out my projects below and feel free to connect!
 ## 📬 Let's Connect!
 - **Email**: [cssthauni@gmail.com](mailto:cssthauni@gmail.com)
 - **LinkedIn**: [linkedin.com/in/univerxe](https://linkedin.com/in/univerxe)
-- **GitHub**: [github.com/username](https://github.com/univerxe)
+- **GitHub**: [github.com/univerxe](https://github.com/univerxe)
 - **Twitter**: [@univerxe](https://twitter.com/univerxe)
