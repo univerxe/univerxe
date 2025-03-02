@@ -1,4 +1,3 @@
-![Banner](https://github.com/univerxe/univerxe/blob/main/banner3.png)
 # 👨‍💻 **Hi, I'm Universe :)**
 ### Full-Stack Developer 🚀 | Creating Scalable SaaS Apps People Love 🌐
 
