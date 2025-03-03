@@ -7,16 +7,16 @@ Check out my projects below and feel free to connect!
 
 ## 💻 Skills
 ### Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=js,react,ts,tailwind,vite,nextjs&theme=light)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,react,ts,tailwind,vite,nextjs&theme=dark)](https://skillicons.dev)
 
 ### Backend Development
-[![Backend](https://skillicons.dev/icons?i=nodejs,python,java,spring,fastapi,flask&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,python,java,spring,fastapi,flask&theme=dark)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=light)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 ### DevOps & Tools
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,postman&theme=light)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,postman&theme=dark)](https://skillicons.dev)
 
 ## 📬 Let's Connect!
 - **Email**: [cssthauni@gmail.com](mailto:cssthauni@gmail.com)
